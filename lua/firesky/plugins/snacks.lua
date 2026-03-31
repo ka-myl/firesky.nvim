@@ -117,7 +117,7 @@ function M.apply(colors, config)
 	hl("SnacksLog", { fg = colors.comment, italic = true })
 	hl("SnacksLogInfo", { fg = colors.info })
 	hl("SnacksLogWarn", { fg = colors.warning })
-	hl("SnacksLogError", { fg = colors.error }}
+	hl("SnacksLogError", { fg = colors.error })
 	
 	-- Snacks.nvim toggle indicators
 	hl("SnacksToggle", { fg = colors.operator })
